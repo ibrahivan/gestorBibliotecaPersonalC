@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Puesto12\\Desktop\\WK VS\\gestorBibliotecaPersonalC\\gestorBibliotecaPersonalC\\gestorBibliotecaPersonalC.csproj": {}
+    "C:\\Users\\Puesto12\\source\\repos\\gestorBibliotecaPersonalC\\gestorBibliotecaPersonalC\\gestorBibliotecaPersonalC\\gestorBibliotecaPersonalC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Puesto12\\Desktop\\WK VS\\gestorBibliotecaPersonalC\\DAL\\DAL.csproj": {
+    "C:\\Users\\Puesto12\\source\\repos\\gestorBibliotecaPersonalC\\gestorBibliotecaPersonalC\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Puesto12\\Desktop\\WK VS\\gestorBibliotecaPersonalC\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\Puesto12\\source\\repos\\gestorBibliotecaPersonalC\\gestorBibliotecaPersonalC\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\Puesto12\\Desktop\\WK VS\\gestorBibliotecaPersonalC\\DAL\\DAL.csproj",
+        "projectPath": "C:\\Users\\Puesto12\\source\\repos\\gestorBibliotecaPersonalC\\gestorBibliotecaPersonalC\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\Puesto12\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Puesto12\\Desktop\\WK VS\\gestorBibliotecaPersonalC\\DAL\\obj\\",
+        "outputPath": "C:\\Users\\Puesto12\\source\\repos\\gestorBibliotecaPersonalC\\gestorBibliotecaPersonalC\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Puesto12\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -71,14 +71,14 @@
         }
       }
     },
-    "C:\\Users\\Puesto12\\Desktop\\WK VS\\gestorBibliotecaPersonalC\\gestorBibliotecaPersonalC\\gestorBibliotecaPersonalC.csproj": {
+    "C:\\Users\\Puesto12\\source\\repos\\gestorBibliotecaPersonalC\\gestorBibliotecaPersonalC\\gestorBibliotecaPersonalC\\gestorBibliotecaPersonalC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Puesto12\\Desktop\\WK VS\\gestorBibliotecaPersonalC\\gestorBibliotecaPersonalC\\gestorBibliotecaPersonalC.csproj",
+        "projectUniqueName": "C:\\Users\\Puesto12\\source\\repos\\gestorBibliotecaPersonalC\\gestorBibliotecaPersonalC\\gestorBibliotecaPersonalC\\gestorBibliotecaPersonalC.csproj",
         "projectName": "gestorBibliotecaPersonalC",
-        "projectPath": "C:\\Users\\Puesto12\\Desktop\\WK VS\\gestorBibliotecaPersonalC\\gestorBibliotecaPersonalC\\gestorBibliotecaPersonalC.csproj",
+        "projectPath": "C:\\Users\\Puesto12\\source\\repos\\gestorBibliotecaPersonalC\\gestorBibliotecaPersonalC\\gestorBibliotecaPersonalC\\gestorBibliotecaPersonalC.csproj",
         "packagesPath": "C:\\Users\\Puesto12\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Puesto12\\Desktop\\WK VS\\gestorBibliotecaPersonalC\\gestorBibliotecaPersonalC\\obj\\",
+        "outputPath": "C:\\Users\\Puesto12\\source\\repos\\gestorBibliotecaPersonalC\\gestorBibliotecaPersonalC\\gestorBibliotecaPersonalC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Puesto12\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -95,8 +95,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Puesto12\\Desktop\\WK VS\\gestorBibliotecaPersonalC\\DAL\\DAL.csproj": {
-                "projectPath": "C:\\Users\\Puesto12\\Desktop\\WK VS\\gestorBibliotecaPersonalC\\DAL\\DAL.csproj"
+              "C:\\Users\\Puesto12\\source\\repos\\gestorBibliotecaPersonalC\\gestorBibliotecaPersonalC\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\Puesto12\\source\\repos\\gestorBibliotecaPersonalC\\gestorBibliotecaPersonalC\\DAL\\DAL.csproj"
               }
             }
           }

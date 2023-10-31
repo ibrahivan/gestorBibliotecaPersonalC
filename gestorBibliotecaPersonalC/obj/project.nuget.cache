@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tJyHXTuB0AalJL3/qC80iGuuOz3N5Qr8EHJhE9ylk9HInerl2pIMtRERyJtwEHvdoLzB6no5FydZD7aEnTfFAQ==",
+  "dgSpecHash": "HXgPtd7WQkv3rxul70z62dn/cuIzCGlsCTzR+GrTB8VxesIeEbXP4tKwppbXDkEF7kgQve8OyflN9ZoEnS79ug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Puesto12\\Desktop\\WK VS\\gestorBibliotecaPersonalC\\gestorBibliotecaPersonalC\\gestorBibliotecaPersonalC.csproj",
+  "projectFilePath": "C:\\Users\\Puesto12\\source\\repos\\gestorBibliotecaPersonalC\\gestorBibliotecaPersonalC\\gestorBibliotecaPersonalC\\gestorBibliotecaPersonalC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Puesto12\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Puesto12\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.13\\microsoft.entityframeworkcore.7.0.13.nupkg.sha512",

@@ -157,8 +157,8 @@ namespace DAL
         [InverseProperty("libro")]
         public List<Prestamos> librosPrestamos { get; set; }
 
-        [InverseProperty("libro")]
-        public List<RelAutoresLibros> librosRelAutores { get; set; }
+        //FK para libros-autores
+        public virtual List<Autores> Autores { get; set; }
     }
 
 
@@ -176,8 +176,8 @@ namespace DAL
         [Column("apellidos_autor", TypeName = "string")]
         public string apellidos_autor { get; set; }
 
-        [InverseProperty("autor")]
-        public List<RelAutoresLibros> autoresRelAutores { get; set; }
+        //FK autores libros
+        public virtual List<Libros> Libros { get; set; }
     }
 
     [Table("colecciones", Schema = "gbp_operacional")]
@@ -225,23 +225,8 @@ namespace DAL
         public string descripcion_genero { get; set; }
 
         [InverseProperty("genero")]
-        public List<Libros> librosGeneros { get; set; }
+        public List<Libros> librosGeneros { get; set; } 
     }
+    
 
-    [Table("relAutoresLibros", Schema = "gbp_operacional")]
-    public class RelAutoresLibros
-    {
-        [Key]
-        [Column("id_rel_autores_libros")]
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public long id_rel_autores_libros { get; set; }
-
-        [ForeignKey("autor")]
-        public long id_autor { get; set; }
-        public Autores autor { get; set; }
-
-        [ForeignKey("libro")]
-        public long id_libro { get; set; }
-        public Libros libro { get; set; }
-    }
 }

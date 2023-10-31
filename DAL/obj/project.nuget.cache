@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fvzqUNLnjPNxIvmS3ypf1u82At77IqtHnvlVmvjtrjHdfimTd+07c2ylgBC4xoC2+GQnPeaZsjnFw1uEcrnW3w==",
+  "dgSpecHash": "f2u4QYQhKEdD2T6vfX4qDM4LmGrbJjVtWKCHpwflSPJnr/CTq2E0D5u2R/7bbew4Y28JY2SI6SoT8Zn5Vy8DRw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Puesto12\\Desktop\\WK VS\\gestorBibliotecaPersonalC\\DAL\\DAL.csproj",
+  "projectFilePath": "C:\\Users\\Puesto12\\source\\repos\\gestorBibliotecaPersonalC\\gestorBibliotecaPersonalC\\DAL\\DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Puesto12\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Puesto12\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.13\\microsoft.entityframeworkcore.7.0.13.nupkg.sha512",
